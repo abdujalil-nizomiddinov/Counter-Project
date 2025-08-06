@@ -1,0 +1,79 @@
+---------------------------------------------------|
+main.jsx building...
+---------------------------------------------------|
+import {store} from "/"
+import {Provider} from "/"
+
+createRoot(document.getElementById("root")).render(
+    <Provider store={store}>
+    <App />
+    </Provider>
+)
+---------------------------------------------------
+import {store} from "/"
+import {Provider} from "/"
+
+createRoot(document.getElementById("root")).render(
+    <Provider store={store}>
+    <App />
+    </Provider>
+)
+---------------------------------------------------
+import {store} from "/"
+import {Provider} from "/"
+
+createRoot(document.getElementById("root")).render(
+    <Provider store={store}>
+    <App />
+    </Provider>
+)
+---------------------------------------------------
+import {store} from "/"
+import {Provider} from "/"
+
+createRoot(document.getElementById("root")).render(
+    <Provider store={store}>
+    <App />
+    </Provider>
+)
+---------------------------------------------------
+import {store} from "/"
+import {Provider} from "/"
+
+createRoot(document.getElementById("root")).render(
+    <Provider store={store}>
+    <App />
+    </Provider>
+)
+---------------------------------------------------
+import {store} from "/"
+import {Provider} from "/"
+
+createRoot(document.getElementById("root")).render(
+    <Provider store={store}>
+    <App />
+    </Provider>
+)
+---------------------------------------------------
+import {store} from "/"
+import {Provider} from "/"
+
+createRoot(document.getElementById("root")).render(
+    <Provider store={store}>
+    <App />
+    </Provider>
+)
+---------------------------------------------------
+import {store} from "/"
+import {Provider} from "/"
+
+createRoot(document.getElementById("root")).render{
+    <Provider store={store}>
+    <App />
+    <Provider>
+}
+---------------------------------------------------|
+main.jsx end !!!
+---------------------------------------------------|
+------------------------------------------------------------------------------------------------------>
+------------------------------------------------------------------------------------------------------>

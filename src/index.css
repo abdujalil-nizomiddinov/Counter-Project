@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  font-family: monospace;
+  color: aqua;
+}
+body {
+  background: #000;
+}
